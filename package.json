@@ -1,7 +1,7 @@
 {
-               "name": "sithuwa-md",
+               "name": "SYAM~SER",
                "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Sithuwa.",
+               "description": "HABIBBI ONLY ENTERTAINMENT!!!",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name SITHUWA-MD",
                 "stop": "pm2 stop SITHUWA-MD"
                 },
-               "author": "SITHUM-KALHARA",
+               "author": "SYAM~SER",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
